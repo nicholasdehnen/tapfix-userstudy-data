@@ -1,0 +1,4 @@
+CorrectionMethod,MethodActivationTime,CursorPositioningTime,CharacterDeletionTime,CharacterInsertionTime
+SpacebarSwipe,0.579,1.586,0.609,0.529
+TapFix,0.411,0.769,0.381,0.275
+TextMagnifier,0.926,1.155,0.609,0.55
